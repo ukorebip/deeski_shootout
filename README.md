@@ -1,5 +1,6 @@
                                  Deeski
-  __                        Penalty Kick Game
+                              Penalty Kick Game
+  
   
 ((OO))   ▄████  ██▓▄▄▄█████▓ ███▄ ▄███▓ ██▓ ███▄    █ ▓█████  ██▀███  
  \__/   ██▒ ▀█▒▓██▒▓  ██▒ ▓▒▓██▒▀█▀ ██▒▓██▒ ██ ▀█   █ ▓█   ▀ ▓██ ▒ ██▒      OO
@@ -16,7 +17,6 @@ Deeski: A Thrilling Penalty Shootout Game
 Deeski is an exciting and interactive penalty shootout game designed to provide players with an immersive experience. Whether you're aiming to score goals or defending the net, Deeski offers a captivating gameplay experience with dynamic animations and sound effects. This game combines simplicity and enjoyment, making it suitable for players of all ages.
 
 Features:
-
 Intuitive Gameplay: Deeski features easy-to-learn mechanics that allow players to quickly get into the game without a steep learning curve. The straightforward controls ensure that anyone can start playing and enjoying the game immediately. The game mechanics are designed to be simple yet engaging, ensuring that players can have fun without getting frustrated.
 
 Engaging Animations and Sound Effects: The game includes realistic sound effects like cheering, whistles, and more to enhance the overall experience. The animations are smooth and visually appealing, making the gameplay even more exciting. These elements work together to create a realistic and enjoyable gaming environment that keeps players coming back for more.
