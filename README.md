@@ -15,7 +15,7 @@
 
 
 
-![Deeski Screenshot](https://github.com/ukorebip/deeski_shootout/blob/main/ball.jpeg)
+![Deeski Screenshot](https://github.com/ukorebip/deeski_shootout/blob/main/ball.png)
 
 
 Deeski: A Thrilling Penalty Shootout Game
