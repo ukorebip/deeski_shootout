@@ -50,7 +50,7 @@ Flexible Game Modes: In addition to the standard multiplayer and single-player m
 Deeski is not just a game; it's an experience that brings the excitement of penalty shootouts to your fingertips. Whether you're playing alone, competing with friends, or challenging the computer, Deeski promises an exhilarating and immersive gaming experience. Dive into the world of Deeski and enjoy the thrill of the perfect penalty shootout!
 
 
-
+![Deeski Screenshot](https://github.com/ukorebip/deeski_shootout/blob/main/deeski_flash.JPG)
 
 
 Table of Contents
@@ -89,13 +89,23 @@ Usage
 Start the server:
 node app.js
 
-
 Open your browser and navigate to http://localhost:3000.
-
 Play the game and enjoy!
+
+
+
+![Deeski Screenshot](https://github.com/ukorebip/deeski_shootout/blob/main/file_structure.JPG)
+
+
 
 Game Structure
 Project Directory:
+
+
+
+![Deeski Screenshot](https://github.com/ukorebip/deeski_shootout/blob/main/file_structure_2.JPG)
+
+
 
 
 server/
