@@ -83,40 +83,6 @@ Open your browser and navigate to http://localhost:3000.
 
 Play the game and enjoy!
 
-Game Structure
-Project Directory:
-
-
-server/
-├── node_modules/
-├── public/
-│   ├── audio/
-│   │   ├── cheering.mp3
-│   │   ├── loose.mp3
-│   │   ├── oleole.mp3
-│   │   ├── whistle.mp3
-│   │   └── win.mp3
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   │   ├── background.png
-│   │   ├── ball.png
-│   │   ├── instructions.png
-│   │   ├── ironhack.png
-│   │   ├── modal-background.png
-│   │   ├── solo-bottomleft.png
-│   │   ├── solo-bottomright.png
-│   │   ├── solo-ready.png
-│   │   ├── solo-topleft.png
-│   │   ├── solo-topright.png
-│   │   └── wing.gif
-│   └── js/
-│       └── main.js
-├── package.json
-├── package-lock.json
-└── app.js
-
-
 Dependencies
 The project relies on the following npm packages:
 
